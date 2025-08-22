@@ -1,4 +1,4 @@
-# AI Created Equity Performance Tracker – Application Summary
+# Equity Performance Tracker – AI Application Summary
 Equity Performance Tracker is a Razor Pages web application built on .NET 9 and C# 13.0, designed to help users manage and analyze their equity investment portfolios.
 ## Core Features ##
 -	Portfolio Management:
