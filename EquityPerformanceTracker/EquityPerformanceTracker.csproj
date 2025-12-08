@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-EquityPerformanceTracker-3584b697-8573-47d8-93ae-7833bbe22870</UserSecretsId>
+	<LangVersion>13.0</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
